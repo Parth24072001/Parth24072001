@@ -1,4 +1,4 @@
-![logo](https://github.com/Parth24072001/Parth24072001/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
+
 <h1 align="center">Hi  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Poshiya Parth</h1> </h1>
 <p align='center'>
 <h3 align="center">I am coding enthusiast.</h3>
