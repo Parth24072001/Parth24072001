@@ -8,9 +8,7 @@
     delay="2000"
     style="width:250px;height:250px">
 </lord-icon>
- <div align="center">
-<img width="95%" height = "450px" src="mainpage.gif" alt="cover" />
-</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth24072001&label=Profile%20views&color=0e75b6&style=flat" alt="parth24072001" /> </p>
 
